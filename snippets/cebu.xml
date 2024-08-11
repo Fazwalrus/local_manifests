@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/motorola/cebu" name="android_device_motorola_cebu"
+        remote="raza-droid"/>
+    <project path="vendor/motorola/cebu" name="proprietary_vendor_motorola_cebu"
+        remote="reza"/>
+</manifest>
