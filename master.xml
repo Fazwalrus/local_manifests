@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="lineageos"
+        fetch="https://github.com/LineageOS/" revision="lineage-21" />
+    <remote name="muppets"
+        fetch="https://github.com/TheMuppets/" revision="lineage-21" />
+    <remote name="fazwalrus"
+        fetch="https://github.com/Fazwalrus/" revision="lineage-21" />
+
+    <!-- Snippets -->
+    <!-- Delete the ones you don't want to sync -->
+    <include name="local_manifests/snippets/misc.xml"/>
+    <include name="local_manifests/snippets/sm6225.xml"/>
+    <include name="local_manifests/snippets/borneo.xml"/>
+</manifest>

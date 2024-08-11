@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/motorola/borneo" name="android_device_motorola_borneo"
+        remote="lineageos"/>
+    <project path="vendor/motorola/borneo" name="proprietary_vendor_motorola_borneo"
+        remote="muppets"/>
+</manifest>
