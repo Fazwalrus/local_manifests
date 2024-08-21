@@ -22,4 +22,5 @@
     <include name="local_manifests/snippets/cebu.xml"/>
     <include name="local_manifests/snippets/borneo.xml"/>
     <include name="local_manifests/snippets/capri.xml"/>
+    <include name="local_manifests/snippets/caprip.xml"/>
 </manifest>

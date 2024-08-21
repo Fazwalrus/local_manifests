@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/motorola/caprip" name="android_device_motorola_caprip"
+        remote="lineageos"/>
+    <project path="vendor/motorola/caprip" name="proprietary_vendor_motorola_caprip"
+        remote="muppets"/>
+</manifest>
