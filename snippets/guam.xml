@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/motorola/guam" name="android_device_motorola_guam"
+        remote="lineageos"/>
+    <project path="vendor/motorola/guam" name="proprietary_vendor_motorola_guam"
+        remote="muppets"/>
+</manifest>
