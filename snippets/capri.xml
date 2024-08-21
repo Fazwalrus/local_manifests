@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/motorola/capri" name="android_device_motorola_capri"
+        remote="fazwalrus"/>
+    <project path="vendor/motorola/capri" name="proprietary_vendor_motorola_capri"
+        remote="fazwalrus"/>
+</manifest>

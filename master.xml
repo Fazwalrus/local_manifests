@@ -21,4 +21,5 @@
     <include name="local_manifests/snippets/guamp.xml"/>
     <include name="local_manifests/snippets/cebu.xml"/>
     <include name="local_manifests/snippets/borneo.xml"/>
+    <include name="local_manifests/snippets/capri.xml"/>
 </manifest>
