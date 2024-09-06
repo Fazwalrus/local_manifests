@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/motorola/guamna" name="android_device_motorola_guamna"
+        remote="fazwalrus"/>
+    <project path="vendor/motorola/guamna" name="proprietary_vendor_motorola_guamna"
+        remote="fazwalrus"/>
+</manifest>
