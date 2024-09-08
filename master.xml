@@ -15,6 +15,7 @@
 
     <!-- Snippets -->
     <!-- Delete the ones you don't want to sync -->
+    <include name="local_manifests/snippets/rising-ota.xml"/>
     <include name="local_manifests/snippets/misc.xml"/>
     <include name="local_manifests/snippets/sm6225.xml"/>
     <!-- <include name="local_manifests/snippets/guam.xml"/> -->

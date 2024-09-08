@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project path="packages/apps/Updater" />
+  <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="fazwalrus" />
+</manifest>
