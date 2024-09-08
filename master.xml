@@ -17,13 +17,13 @@
     <!-- Delete the ones you don't want to sync -->
     <include name="local_manifests/snippets/misc.xml"/>
     <include name="local_manifests/snippets/sm6225.xml"/>
-    <include name="local_manifests/snippets/guam.xml"/>
+    <!-- <include name="local_manifests/snippets/guam.xml"/> -->
     <!-- <include name="local_manifests/snippets/guamna.xml"/> -->
     <include name="local_manifests/snippets/guamp.xml"/>
     <include name="local_manifests/snippets/cebu.xml"/>
     <include name="local_manifests/snippets/borneo.xml"/>
-    <include name="local_manifests/snippets/capri.xml"/>
-    <include name="local_manifests/snippets/caprip.xml"/>
+    <!-- <include name="local_manifests/snippets/capri.xml"/> -->
+    <!-- <include name="local_manifests/snippets/caprip.xml"/> -->
     <!-- <include name="local_manifests/snippets/devon.xml"/> -->
     <!-- <include name="local_manifests/snippets/hawao.xml"/> -->
     <!-- <include name="local_manifests/snippets/rhode.xml"/> -->
