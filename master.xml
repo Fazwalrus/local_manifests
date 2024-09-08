@@ -26,4 +26,5 @@
     <include name="local_manifests/snippets/caprip.xml"/>
     <!-- <include name="local_manifests/snippets/devon.xml"/> -->
     <!-- <include name="local_manifests/snippets/hawao.xml"/> -->
+    <!-- <include name="local_manifests/snippets/rhode.xml"/> -->
 </manifest>

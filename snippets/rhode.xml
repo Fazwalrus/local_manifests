@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/motorola/rhode" name="android_device_motorola_rhode"
+        remote="lineageos"/>
+    <project path="vendor/motorola/rhode" name="proprietary_vendor_motorola_rhode"
+        remote="muppets"/>
+</manifest>
