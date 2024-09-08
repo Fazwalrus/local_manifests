@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project path="device/motorola/guamp" name="android_device_motorola_guamp"
-        remote="lineageos"/>
+        remote="fazwalrus"/>
     <project path="vendor/motorola/guamp" name="proprietary_vendor_motorola_guamp"
         remote="muppets"/>
 </manifest>

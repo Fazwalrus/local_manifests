@@ -5,7 +5,7 @@
     <remote name="muppets"
         fetch="https://github.com/TheMuppets/" revision="lineage-21" />
     <remote name="fazwalrus"
-        fetch="https://github.com/Fazwalrus/" revision="lineage-21" />
+        fetch="https://github.com/Fazwalrus/" revision="rising-14" />
     <remote name="reza"
         fetch="https://gitlab.com/DelightReza/" revision="lineage-21" />
     <remote name="raza-droid"
