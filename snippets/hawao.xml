@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/motorola/hawao" name="android_device_motorola_hawao"
+        remote="lineageos"/>
+    <project path="vendor/motorola/hawao" name="proprietary_vendor_motorola_hawao"
+        remote="muppets"/>
+</manifest>
